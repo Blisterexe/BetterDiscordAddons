@@ -14,6 +14,7 @@
 
 Replaces Discord's Emojis with Emojis of a different Provider (Apple, Facebook...)
 
+⚠️ Place the code before any existing code in the theme file, otherwise the theme may not work.
 
 Apple:
 
